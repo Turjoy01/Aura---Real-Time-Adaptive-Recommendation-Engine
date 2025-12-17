@@ -288,3 +288,6 @@ Proprietary – Ventyy Inc.
 ## 🤝 Support
 
 For issues or questions, contact the recommendation team.
+
+<img width="1102" height="922" alt="image" src="https://github.com/user-attachments/assets/e24ed16e-10d6-43d7-9f9b-1d7e69c5ecae" />
+
