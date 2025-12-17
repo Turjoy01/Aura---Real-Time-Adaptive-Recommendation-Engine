@@ -1,0 +1,1 @@
+"""VENTYY Recommendation Microservice"""
